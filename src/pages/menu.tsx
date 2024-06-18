@@ -3,7 +3,7 @@ import "../css/menu.css";
 function MenuPage() {
   return (
     <div className="menu-container">
-      <object className="menu-book" data={menubook}></object>
+      <iframe className="menu-book" src={menubook}></iframe>
     </div>
   );
 }
