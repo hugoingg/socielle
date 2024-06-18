@@ -3,7 +3,8 @@ import React, { useEffect } from "react";
 import { SliderFunctionality } from "../slider";
 import img1f from "../media/img1f.jpg";
 import img2f from "../media/imgf2.jpg";
-import img3 from "../media/img3.jpeg";
+import img3f from "../media/img3f.jpg";
+import img4f from "../media/imgf4.jpg";
 
 const HomePage: React.FC = () => {
   useEffect(() => {
@@ -22,7 +23,10 @@ const HomePage: React.FC = () => {
               <img src={img2f} />
             </div>
             <div className="item">
-              <img src={img3} />
+              <img src={img3f} />
+            </div>
+            <div className="item">
+              <img src={img4f} />
             </div>
           </div>
           <div className="buttons">
@@ -31,6 +35,7 @@ const HomePage: React.FC = () => {
           </div>
           <ul className="dots">
             <li className="active"></li>
+            <li></li>
             <li></li>
             <li></li>
           </ul>
@@ -44,12 +49,12 @@ const HomePage: React.FC = () => {
         </h3>
         <ul>
           <li>
-            <a>
+            <a href="/socielle/menu">
               <button>Menu</button>
             </a>
           </li>
           <li>
-            <a>
+            <a href="https://wa.me/6287731131107">
               <button id="reservation-btn">Reservation</button>
             </a>
           </li>

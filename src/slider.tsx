@@ -37,7 +37,7 @@ export function SliderFunctionality() {
   // Setting interval for slider refresh
   let refreshSlider = setInterval(() => {
     next.click();
-  }, 3000);
+  }, 4000);
 
   // Function to reload slider
   function reloadSlider() {
