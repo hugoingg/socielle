@@ -8,12 +8,12 @@ function Footer() {
           <ul>
             <li>
               <i className="fa-brands fa-instagram">
-                <a href="#"></a>
+                <a href="https://www.instagram.com/socielle.id?igsh=azNtaWt5eXB5NXVw"></a>
               </i>
             </li>
             <li>
               <i className="fa-brands fa-whatsapp">
-                <a href="#"></a>
+                <a href="https://wa.me/6287731131107"></a>
               </i>
             </li>
           </ul>
@@ -21,13 +21,13 @@ function Footer() {
         <div className="footer-nav">
           <ul>
             <li>
-              <a href="#">Menu</a>
+              <a href="/socielle/menu">Menu</a>
             </li>
             <li>
-              <a href="#">About Us</a>
+              <a href="/socielle/aboutus">About Us</a>
             </li>
             <li>
-              <a href="#">Contacts</a>
+              <a href="/socielle/contacts">Contacts</a>
             </li>
           </ul>
         </div>

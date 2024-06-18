@@ -11,7 +11,7 @@ function Contacts() {
         </div>
       </div>
       <div className="contacts">
-        <a className="card" href="#">
+        <a className="card" href="https://wa.me/6287731131107">
           <div>
             <i className="fa-brands fa-whatsapp"></i>
             <h1>Whatsapp</h1>
@@ -20,7 +20,10 @@ function Contacts() {
             <h3>Reservation via our Whatsapp.</h3>
           </div>
         </a>
-        <a className="card" href="#">
+        <a
+          className="card"
+          href="https://www.instagram.com/socielle.id?igsh=azNtaWt5eXB5NXVw"
+        >
           <div>
             <i className="fa-brands fa-instagram"></i>
             <h1>Instagram</h1>

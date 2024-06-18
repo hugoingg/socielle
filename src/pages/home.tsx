@@ -77,12 +77,12 @@ const HomePage: React.FC = () => {
           <ul>
             <li>
               <i className="fa-brands fa-instagram">
-                <a href="#"></a>
+                <a href="https://www.instagram.com/socielle.id?igsh=azNtaWt5eXB5NXVw"></a>
               </i>
             </li>
             <li>
               <i className="fa-brands fa-whatsapp">
-                <a href="#"></a>
+                <a href="https://wa.me/6287731131107"></a>
               </i>
             </li>
           </ul>
