@@ -7,14 +7,14 @@ function Footer() {
         <div className="social-icons">
           <ul>
             <li>
-              <i className="fa-brands fa-instagram">
-                <a href="https://www.instagram.com/socielle.id?igsh=azNtaWt5eXB5NXVw"></a>
-              </i>
+              <a href="https://www.instagram.com/socielle.id?igsh=azNtaWt5eXB5NXVw">
+                <i className="fa-brands fa-instagram"></i>
+              </a>
             </li>
             <li>
-              <i className="fa-brands fa-whatsapp">
-                <a href="https://wa.me/6287731131107"></a>
-              </i>
+              <a href="https://wa.me/6287731131107">
+                <i className="fa-brands fa-whatsapp"></i>
+              </a>
             </li>
           </ul>
         </div>

@@ -177,6 +177,11 @@
     opacity:1;
     transition: 0.3s;
 }
+.social-icons-home a{
+    text-decoration: none;
+    color:black;
+    margin: top 10px;;
+}
 @media screen and (max-width: 768px){
     .slider{
         height:500px;

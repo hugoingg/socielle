@@ -31,7 +31,7 @@
     align-items: center;
 }
 .about-us{
-    padding:10px 90px;
+    padding:10px 30px;
     margin-bottom:40px;
 }
 .about-us p{
@@ -50,6 +50,7 @@
     font-size:25px;
     font-weight: bold;
     margin-top:50px;
+    padding: 0 30px;
 }
 @media screen and (max-width: 768px){
     .header-text{
