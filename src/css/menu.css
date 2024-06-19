@@ -1,3 +1,7 @@
+.menupage{
+    width:100%;
+    overflow: hidden;
+}
 .menu-container{
     width:100%;
     height:auto;

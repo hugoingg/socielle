@@ -4,7 +4,7 @@ import "../css/aboutus.css";
 import menuh from "../media/menuh.jpg";
 function MenuPage() {
   return (
-    <>
+    <div className="menupage">
       <div className="about-us-header">
         <img src={menuh}></img>
         <div className="header-text">
@@ -64,7 +64,7 @@ function MenuPage() {
           ></iframe>
         </div>
       </div>
-    </>
+    </div>
   );
 }
 
