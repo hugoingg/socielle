@@ -3,7 +3,7 @@ import React, { useEffect } from "react";
 import { SliderFunctionality } from "../slider";
 import img1f from "../media/img1f.jpg";
 import img2f from "../media/imgf2.jpg";
-import img3f from "../media/img3f.jpg";
+import img3f from "../media/img3e.jpg";
 import img4f from "../media/imgf4.jpg";
 
 const HomePage: React.FC = () => {
